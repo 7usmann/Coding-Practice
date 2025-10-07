@@ -3,8 +3,8 @@ Template for Python solution files.
 
 Problem: [Problem Name]
 Difficulty: [Easy/Medium/Hard]
-Source: LeetCode [Problem Number]
-URL: [LeetCode URL]
+Origin: LeetCode [Problem Number]
+
 
 Description:
 [Problem Description]
@@ -12,19 +12,14 @@ Description:
 Example:
 [Example Input/Output]
 
-Approach:
-[Brief description of the approach]
-
-Time Complexity: O(?)
-Space Complexity: O(?)
 """
 
 class Solution:
     def solve(self):
-        # Implementation here
+        # Leave Empty - Do not implement
         pass
 
-# Test cases
+# Test cases - with edge cases
 if __name__ == "__main__":
     solution = Solution()
     # Add test cases here
