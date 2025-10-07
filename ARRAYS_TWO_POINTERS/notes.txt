@@ -1,0 +1,23 @@
+# ARRAYS TWO POINTERS - Key Insights
+
+## Important Concepts
+- Two pointers technique is particularly useful for searching pairs in a sorted array
+- Can often turn an O(n²) solution into an O(n) solution
+- Usually involves moving pointers inward (from both ends) or in the same direction at different speeds
+
+## Common Patterns
+- Left/right pointers moving inward (e.g., two sum in sorted array)
+- Fast/slow pointers moving in same direction (e.g., cycle detection)
+- Multiple passes with different pointer patterns (e.g., Dutch national flag problem)
+- Window expansion/contraction (related to sliding window)
+
+## Time/Space Complexity Considerations
+- Usually O(n) time complexity when properly implemented
+- Often achieves O(1) space complexity, making it memory efficient
+- Sorting first (if needed) adds O(n log n) complexity but can simplify the algorithm
+
+## Problem-Specific Learnings
+- Buy/Sell Stock: Track minimum price seen so far and maximize profit at each step
+- Squares of Sorted Array: Compare absolute values from both ends to maintain sorting
+- 3Sum: Sort first, then fix one element and use two pointers for the other two
+- Container With Most Water: Greedily move the pointer with smaller height
