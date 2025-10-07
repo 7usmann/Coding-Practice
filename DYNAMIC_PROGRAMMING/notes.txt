@@ -1,0 +1,21 @@
+# DYNAMIC PROGRAMMING - Key Insights
+
+## Important Concepts
+- 
+- 
+- 
+
+## Common Patterns
+- 
+- 
+- 
+
+## Time/Space Complexity Considerations
+- 
+- 
+- 
+
+## Problem-Specific Learnings
+- 
+- 
+- 
